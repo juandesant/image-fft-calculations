@@ -9,6 +9,5 @@ The notebook requires the following packages:
 
  * Jupyter Notebook
  * Matplotlib
- * Scikit Image
- * NumPy (already a dependency of Matplotlib and Scikit Image)
- * PIL or PIllow (already a dependency of Scikit Image)
+ * NumPy (already a dependency of Matplotlib)
+ * PIL or Pillow
