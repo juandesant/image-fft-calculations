@@ -1,5 +1,5 @@
 # image-fft-calculations
-This is a [Jupyter Notebook](https://github.com/juandesant/image-fft-calculations/blob/master/fft-calculations-notebook.ipynb) showing how to do FFT calculations in Python.
+This is a [Jupyter Notebook](https://github.com/juandesant/image-fft-calculations/blob/master/fft-calculations-notebook.ipynb) showing how to do 2D FFT calculations in Python.
 
 Images are used as input or generated as output by executing the notebook.
 
