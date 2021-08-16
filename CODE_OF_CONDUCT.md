@@ -60,7 +60,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-Direct Message on Twitter: @juandesant, or email to juandesant+github@gmail.com.
+Direct Message on Twitter: [`@juandesant`](https://twitter.com/juandesant), or email to [`juandesant+github@gmail.com`](mailto:juandesant+github@gmail.com?subject=Code%20of%20conduct%20violation%0A).
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
